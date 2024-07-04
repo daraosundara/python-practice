@@ -1,0 +1,2 @@
+Bear with me
+This repository is just me sharing a script I wrote. While still rather new to this I'm committed to putting myself out there even the little parts of my journey. This script is me applying the fundamentals of python and making a BMI calculator. A person is able to enter their name, weight(in pounds) and height(in inches) to the program and their BMI is calculated using the formula already coded in. This then returns the BMI category the result falls into with a remark.It's simple and I hope to share more as I improve and work on more stuff. Thank you
